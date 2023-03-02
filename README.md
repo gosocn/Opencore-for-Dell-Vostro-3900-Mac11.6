@@ -1,5 +1,5 @@
 # Opencore-for-Dell-Vostro-3900
- for Dell Vostro 3900
+ Opencore 0.88 for Dell Vostro 3900
 
 * 电脑配置/Technical Detail
 
